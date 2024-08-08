@@ -1,0 +1,96 @@
+filename, drag_coefficient
+288 GTO_edges.jpg,0.38
+350z_edges.jpg,0.31
+360_edges.jpg,0.33
+458 ITALIA 2_edges.jpg,0.33
+488 GTB 1_edges.jpg,0.66
+488 GTB_edges.jpg,0.66
+488 PISTA_edges.jpg,0.66
+488 SPYDER_edges.jpg,0.66
+550_edges.jpg,0.33
+570 S 1_edges.jpg,0.36
+570 S_edges.jpg,0.36
+600 LT_edges.jpg,0.37
+720 S Spyder_edges.jpg,0.33
+AGERA RS_edges.jpg,0.33
+AGERA R_edges.jpg,0.33
+audi a3_edges.jpg,0.31
+AVENTADOR 2_edges.jpg,0.34
+AVENTADOR LP 780_edges.jpg,0.34
+AVENTADOR LP1_edges.jpg,0.34
+AVENTADOR S R_edges.jpg,0.34
+AVENTADOR SVJ _edges.jpg,0.34
+AVENTADOR SVJ_edges.jpg,0.34
+CALIFORNIA 2_edges.jpg,0.32
+CALIFORNIA T_edges.jpg,0.32
+CALIFORNIA_edges.jpg,0.32
+CC 850_edges.jpg,0.34
+celica_edges.jpg,0.34
+CENTENARIO_edges.jpg,0.33
+CHIRON 2_edges.jpg,0.35
+CHIRON 3_edges.jpg,0.35
+CHIRON 4_edges.jpg,0.35
+CHIRON 5_edges.jpg,0.35
+CHIRON_edges.jpg,0.35
+civic coupe_edges.jpg,0.32
+DIVO 2_edges.jpg,0.45
+DIVO_edges.jpg,0.45
+F1 1_edges.jpg,0.34
+F1 3_edges.jpg,0.34
+F1_edges.jpg,0.34
+F40_edges.jpg,0.34
+F430_edges.jpg,0.34
+honda crx_edges.jpg,0.32
+honda insight_edges.jpg,0.28
+HUAYRA 2_edges.jpg,0.37
+HUAYRA CODALUNGA_edges.jpg,0.37
+HUAYRA NRBGRNG_edges.jpg,0.37
+HUAYRA PEARL_edges.jpg,0.37
+HUAYRA R 2_edges.jpg,0.37
+HUAYRA ROADSTER_edges.jpg,0.37
+HUAYRA R_edges.jpg,0.37
+HURACAN LP 580_edges.jpg,0.36
+HURACAN P_edges.jpg,0.36
+HURACAN_edges.jpg,0.36
+infiniti g20_edges.jpg,0.30
+jeep cherokee_edges.jpg,0.52
+JESKO_edges.jpg,0.27
+LAFERRARI FXX_edges.jpg,0.3
+LAFERRARI_edges.jpg,0.3
+lancer_edges.jpg,0.30
+mazda miata_edges.jpg,0.38
+MIURA_edges.jpg,0.44
+MURCIELAGO_edges.jpg,0.34
+nissan 300zx_edges.jpg,0.31
+nissan murano_edges.jpg,0.39
+nsx_edges.jpg,0.32
+ONE_edges.jpg,0.45
+opel astra_edges.jpg,0.32
+opel tigra_edges.jpg,0.31
+pajero_edges.jpg,0.49
+PORTOFINO_edges.jpg,0.31
+REGERA 2_edges.jpg,0.28
+REGERA_edges.jpg,0.28
+renault clio_edges.jpg,0.33
+rx7_edges.jpg,0.33
+scion frs_edges.jpg,0.27
+seat ibiza_edges.jpg,0.33
+SENNA P15_edges.jpg,0.34
+SENNA_edges.jpg,0.34
+SERGIO_edges.jpg,0.30
+SIAN R_edges.jpg,0.36
+subaru legacy_edges.jpg,0.31
+supra_edges.jpg,0.32
+toyota mr2_edges.jpg,0.31
+toyota prius_edges.jpg,0.25
+URUS_edges.jpg,0.39
+VEYRON_edges.jpg,0.41
+volvo c70_edges.jpg,0.31
+vw jetta_edges.jpg,0.31
+vw passat_edges.jpg,0.31
+ZONDA CLINQUE_edges.jpg,0.38
+ZONDA F 2_edges.jpg,0.38
+ZONDA F_edges.jpg,0.38
+ZONDA R 2_edges.jpg,0.38
+ZONDA R 3_edges.jpg,0.38
+ZONDA R_edges.jpg,0.38
